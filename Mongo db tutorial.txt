@@ -1,0 +1,27 @@
+1. Descargar mongodb y instalar mongo db
+
+Comando:
+
+show dbs
+
+use test
+
+show collections
+
+db.dropDatabase()
+
+db.createCollection("users")
+
+db.help
+
+db.products.drop()
+
+show collections
+
+db.products.find()
+
+
+
+https://platzi.com/tutoriales/1533-mongodb/4989-creando-usuarios-y-asignar-roles-en-mongodb/
+
+https://antoniofernandez.com/seguridad-mongodb-produccion/
